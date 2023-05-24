@@ -1,0 +1,6 @@
+{
+  "ENV_NAME": "development",
+  "API_PORT": "5446",
+  "OPENAI_API_KEY": "",
+  "SERPAPI_API_KEY": ""
+}

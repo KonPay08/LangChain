@@ -1,0 +1,9 @@
+.env
+.next
+node_modules
+coverage
+dump.rdb
+out
+config/*
+!config/default.json
+dist/*
